@@ -7,6 +7,6 @@ Housing Data
 
 Removed some outlier data in follwing manner.
 
-![alt text](changed.png)
+![alt text](Changed.png)
 
 Used 4 Layer simple neural network with 128, 64, 16 and 1 neurons in layers.
