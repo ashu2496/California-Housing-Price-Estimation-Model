@@ -12,5 +12,7 @@ Removed Square Footage Structure smaller than 100 and bigger than 8000 Sqft.
 
 * Used 4 Layer simple neural network with 128, 64, 16 and 1 neurons in layers.
 * Used k fold validation process using 4 folds.
+* Experiment results
+![alt text](Experiment.png)
 * Full report in [Report.pdf](Report.pdf)
 * Full solution in [Price_prediction.ipynb](Price_prediction.ipynb)
