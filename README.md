@@ -6,6 +6,7 @@ Housing Data
 ![alt text](Data.jpg)
 
 Removed some outlier data in follwing manner.
+Removed Square Footage Structure smaller than 100 and bigger than 8000 Sqft.
 
 ![alt text](Changed.png)
 
