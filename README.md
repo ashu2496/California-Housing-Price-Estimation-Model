@@ -1,7 +1,7 @@
 # California-Housing-Price-Estimation-Model
 Housing price prediction model using neural networks
 
-Housing Data
+Housing Data in [resd_data.xlsx](resd_data.xlsx)
 
 ![alt text](Data.jpg)
 
